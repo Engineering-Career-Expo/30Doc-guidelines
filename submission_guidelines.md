@@ -49,6 +49,12 @@ An acceptable submission is a GitHub link containing the code with a link to the
 - If you are to implement the design, it will be added to the task description.
 - A guide to hosting with GitHub 
 
+## Game Development 
+An acceptable submission is a GitHub link. 
+
+### How to Submit:
+- Upload a link to your GitHub page 
+- You can update an existing project and resend the link, we would track the commit history
 
 ## Python Track
 An acceptable submission is a repl.it link containing the program, preferably in the main.py file on the site.
