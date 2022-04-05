@@ -1,15 +1,17 @@
 # 30 Days of Code & Design (2022) Submission Guidelines 
 
-## General Submission Guidelines
-- 0 means unmarked
-- 1 means you didn't follow the submission instructions and score won't be changed
-
+## Tracks
 - [3D Modeling & Animation](#3D-modeling-&-Animation)
 - [Back-End Web Development](#back-end-web-development)
 - [Data Analysis](#data-analysis)
 - [Game Development](#game-development)
 - [Python](#python)
 - [UI](#ui)
+
+## General Submission Guidelines
+- 0 means unmarked
+- 1 means you didn't follow the submission instructions and score won't be changed
+
 ## 3D Modeling & Animation
 An acceptable submission is a Google Drive link to a .blend file that contains the required design. 
 
