@@ -71,9 +71,10 @@ An acceptable submission is a repl.it link containing the program, preferably in
 - Include documentation strings.
 
 ## UI/UX Design
-Accepted submissions should be in jpeg or png formats. 
+Accepted submissions should be in jpeg or png formats.
 
-### How to Submit: 
-- Export your designs in either jpeg or png formats. 
-- Share your designs on Twitter with #ECX30daysofdesign and your prompt number (ex. "Just finished my first design for #ECX30daysofdesign  #01"). 
-- Submit the link to your Twitter post on the 30 days of code/design website at https://ecx.org.ng/30doc/
+### How to Submit:
+
+- Export your designs in either jpeg or png formats.
+- Share your designs on Twitter with #ECX30daysofdesign and the prompt (day) number (ex. "Just finished my design for #ECX30daysofdesign #01"), and include the link to your figma design as well 
+- Submit the link to your Twitter post on the 30 Days of Code and Design website at https://ecx.org.ng/30doc/
