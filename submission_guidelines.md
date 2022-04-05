@@ -4,7 +4,12 @@
 - 0 means unmarked
 - 1 means you didn't follow the submission instructions and score won't be changed
 
-[Front-End Web Development](##Front-End-Web-Development)
+- [3D Modeling & Animation](#3D-modeling-&-Animation)
+- [Back-End Web Development](#back-end-web-development)
+- [Data Analysis](#data-analysis)
+- [Game Development](#game-development)
+- [Python](#python)
+- [UI](#ui)
 ## 3D Modeling & Animation
 An acceptable submission is a Google Drive link to a .blend file that contains the required design. 
 
@@ -12,12 +17,13 @@ An acceptable submission is a Google Drive link to a .blend file that contains t
 Upload your .blend file to your Google Drive.
 Submit the Drive link at https://ecx.org.ng/30doc/
 
-## Back-End Web Development (Flask & Laravel) 
-For all back-end tasks, unless stated otherwise, all submissions should be the GitHub link to the README.md file of the repository containing your server-side code. The README should contain the link to the endpoint of where your server-side script is running, and any other information specifically asked for.
-
+## Back-End Web Development
 ### Accepted Languages
 - PHP / Laravel
 - Python (Django or Flask)
+For all back-end tasks, unless stated otherwise, all submissions should be the GitHub link to the README.md file of the repository containing your server-side code. The README should contain the link to the endpoint of where your server-side script is running, and any other information specifically asked for.
+
+
 
 ## Data Analysis
 The project is split into three categories: Tableau, SQL & Python (for data). 
@@ -57,7 +63,7 @@ An acceptable submission is a GitHub link.
 - Upload a link to your GitHub page 
 - You can update an existing project and resend the link, we would track the commit history
 
-## Python Track
+## Python
 An acceptable submission is a repl.it link containing the program, preferably in the main.py file on the site.
 
 ### How to submit:
@@ -71,7 +77,7 @@ An acceptable submission is a repl.it link containing the program, preferably in
 - Ensure that your functions only take in the right input types.
 - Include documentation strings.
 
-## UI/UX Design
+## UI
 Accepted submissions should be in jpeg or png formats.
 
 ### How to Submit:
