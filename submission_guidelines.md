@@ -4,6 +4,7 @@
 - [3D Modeling & Animation](#3D-modeling-&-Animation)
 - [Back-End Web Development](#back-end-web-development)
 - [Data Analysis](#data-analysis)
+- [Front-End Web Development](#front-end-web-development)
 - [Game Development](#game-development)
 - [Python](#python)
 - [UI](#ui)
