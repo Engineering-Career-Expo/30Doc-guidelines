@@ -17,14 +17,26 @@
 An acceptable submission is a Google Drive link to a .blend file that contains the required design. 
 
 ### How to submit:
-Upload your .blend file to your Google Drive.
-Submit the Drive link at https://ecx.org.ng/30doc/
+- Export your project as a .blend file. 
+- Open a Google Drive Folder with your name. This is where you'll upload each day's task. 
+- Upload your .blend file to your Google Drive with a descriptive name (eg, Day 01 #30DaysOfBlender). 
+- Set your Google Drive link to “Anyone on the internet can view.”
+- Submit the link at https://ecx.org.ng/30doc/
 
 ## Back-End Web Development
 ### Accepted Languages
-- PHP / Laravel
-- Python (Django or Flask)
-For all back-end tasks, unless stated otherwise, all submissions should be the GitHub link to the README.md file of the repository containing your server-side code. The README should contain the link to the endpoint of where your server-side script is running, and any other information specifically asked for.
+- Python (Flask)
+- PHP/Laravel
+
+### How to Submit (Flask submissions only):
+- Asides from the last task on day 30, participants are expected to create a new repository and push the code for each day to the repo and share a link to the repository on the 30DOC dashboard (https://ecx.org.ng/30doc/).
+- For the 30th day of the program, share the link to the Heroku deployment instead
+- **Note**: You are to create one repo for all your tasks.
+
+### How to Submit (Laravel submissions only):
+- Unless stated otherwise, all submissions should be the GitHub link to the README.md file of the repository containing your server-side code. 
+- The README should contain the link to the endpoint of where your server-side script is running, and any other information specifically asked for.
+
 
 
 
@@ -38,26 +50,28 @@ The project is split into three categories: Tableau, SQL & Python (for data).
 Upload your visualization to Tableau Public and send the link to the dashboard. Learn how to upload your dashboard to Tableau Public here: https://help.tableau.com/current/pro/desktop/en-us/publish_workbooks_tableaupublic.htm
 
 ## Front-End Web Development
-An acceptable submission is a GitHub link containing the code with a link to the hosted project in the README.md or a link to CodePen/CodeSandbox
+For tasks involving functions: Repl.it links to the code will suffice.
+
+For tasks involving building of components/apps: An acceptable submission is a GitHub link containing the code with a link to the hosted project in the README.md or a link to [CodePen](https://codepen.io/)/[CodeSandbox](https://codesandbox.io/)
+
+#### **The following only applies to the tasks involving components/apps:**
 
 ### How to submit:
 - Create an account on GitHub and open a new repo with the name 30DaysOfCode
 - Create a repo per task or a repo for all the tasks with different folders named after the day. Example: “Day 1” “Day One” etc. with the link for each day posted in the README.
 - Copy the link to that repo from your browser and submit at https://ecx.org.ng/30doc/
 
-### Tips :
+#### ***Tips:***
 - Follow instructions.
 - A submission that is not hosted is considered null and would not be marked.
 - Submission without the hosted link provided in the README is considered null.
-- A bootstrap submission is considered null unless stated in the instructions that you can use it.
 - Multiple submissions are considered void.
-- Be creative with the use of colors. Use external styling and ensure your site is responsive.
+- Use external styling and ensure your site is responsive.
 
-### Extra tip for Front-End Beginners.
+#### ***Extra tip for Front-End Beginners***
 - You shouldn’t always try to implement exactly what is in a given example. The example is just a guideline for what your work should look like.
-- Don't try to implement examples and mess up your job.
-- If you are to implement the design, it will be added to the task description.
-- A guide to hosting with GitHub 
+- [A guide to hosting with GitHub](https://steph-crown.github.io/a-guide-on-hosting/)
+
 
 ## Game Development 
 An acceptable submission is a GitHub link. 
