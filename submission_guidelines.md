@@ -89,6 +89,12 @@ An acceptable submission is a repl.it link containing the program, preferably in
 - Copy the link to that repl from your browser and submit at https://ecx.org.ng/30doc/
 - [A step-by-step guide with images](https://github.com/Senseiuc/pythonguide/blob/master/README.md)
 
+### Grading Criteria (Total: 10 points):
+- 3 points: The code works
+- 3 points: It follows exactly the specifications of the task
+- 2 points: Well structured, simple, and efficient code
+- 2 points: Bug-free code (after testing for special cases such as Type checking, and Exception Handling.) 
+
 ### Tips to get high grades:
 - Follow instructions.
 - Ensure that your functions only take in the right input types.
