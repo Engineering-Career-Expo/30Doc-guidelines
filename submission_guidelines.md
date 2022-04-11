@@ -61,6 +61,16 @@ For tasks involving building of components/apps: An acceptable submission is a G
 - Create a repo per task or a repo for all the tasks with different folders named after the day. Example: “Day 1” “Day One” etc. with the link for each day posted in the README.
 - Copy the link to that repo from your browser and submit at https://ecx.org.ng/30doc/
 
+
+### Marking Guide
+- 1 - Checking Input Type
+- 1 - Participation
+- 1 - Concise & Clean Code
+- 1 - Proper variable naming
+- 3 - Function body works properly
+- 3 - Function follows exact question specs
+
+
 #### ***Tips:***
 - Follow instructions.
 - A submission that is not hosted is considered null and would not be marked.
